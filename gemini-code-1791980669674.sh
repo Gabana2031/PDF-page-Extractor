@@ -1,1 +1,0 @@
-python pdf_extractor.py
